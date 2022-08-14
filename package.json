@@ -1,0 +1,23 @@
+{
+  "name": "tarefa-cypress-cesar-felipe",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Cesarfelipe93/tarefa-cypress-cesar-felipe.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Cesarfelipe93/tarefa-cypress-cesar-felipe/issues"
+  },
+  "homepage": "https://github.com/Cesarfelipe93/tarefa-cypress-cesar-felipe#readme",
+  "devDependencies": {
+    "cypress": "^9.7.0"
+  }
+}
